@@ -1,6 +1,6 @@
 # Hearth Intelligence Patterns
 
-Reusable intelligence pattern designs extracted from the [Home](https://github.com/rizzydam/home) ecosystem. These patterns are context-independent — they work in any system that monitors, analyzes, or coaches humans through data.
+Reusable intelligence pattern designs extracted from the Hearth ecosystem. These patterns are context-independent — they work in any system that monitors, analyzes, or coaches humans through data.
 
 ## Patterns
 
